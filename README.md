@@ -3,19 +3,22 @@
 
 # <img src="https://i.imgur.com/vTLlhbp.png" align="right" height=88 /> Plot ForestGEO data
 
+<!-- badges: start -->
+
+<!-- badges: end -->
+
 **fgeo.plot** helps you to plot
 [ForestGEO](http://www.forestgeo.si.edu/) data.
 
 ## Installation
 
-Install the latest stable version of **fgeo.plot** with:
+Install the latest stable version of **fgeo.plot** from CRAN with:
 
 ``` r
-these_repos <- c(getOption("repos"), "https://forestgeo.github.io/drat")
 install.packages("fgeo.plot", repos = these_repos)
 ```
 
-Install the development version of **fgeo.plot** with:
+Or install the development version of **fgeo.plot** with:
 
 ``` r
 # install.packages("devtools")
@@ -58,6 +61,7 @@ autoplot(
 
 ## Information
 
-  - [Getting help](SUPPORT.md).
-  - [Contributing](CONTRIBUTING.md).
-  - [Contributor Code of Conduct](CODE_OF_CONDUCT.md).
+  - [Getting help](https://forestgeo.github.io/fgeo.plot/SUPPORT.html).
+  - [Contributing](https://forestgeo.github.io/fgeo.plot/CONTRIBUTING.html).
+  - [Contributor Code of
+    Conduct](https://forestgeo.github.io/fgeo.plot/CODE_OF_CONDUCT.html).
