@@ -1,11 +1,11 @@
 Package: fgeo.plot
 Title: Plot ForestGEO Data
-Version: 1.1.8
+Version: 1.1.9
 Authors@R: 
     c(person(given = "Mauro",
              family = "Lepore",
              role = c("aut", "ctr", "cre"),
-             email = "leporem@si.edu",
+             email = "maurolepore@gmail.com",
              comment = c(ORCID = "0000-0002-1986-7988")),
       person(given = "CTFS-ForestGEO",
              role = c("cph", "fnd"),
@@ -31,9 +31,9 @@ Language: en-US
 LazyData: true
 RoxygenNote: 6.1.1
 NeedsCompilation: no
-Packaged: 2019-05-31 18:26:38 UTC; LeporeM
+Packaged: 2019-06-18 17:27:55 UTC; mauro
 Author: Mauro Lepore [aut, ctr, cre] (<https://orcid.org/0000-0002-1986-7988>),
   CTFS-ForestGEO [cph, fnd]
-Maintainer: Mauro Lepore <leporem@si.edu>
+Maintainer: Mauro Lepore <maurolepore@gmail.com>
 Repository: CRAN
-Date/Publication: 2019-05-31 19:00:02 UTC
+Date/Publication: 2019-06-18 21:51:43 UTC
